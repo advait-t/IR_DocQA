@@ -1,0 +1,10 @@
+openai
+pinecone-client
+langchain
+pypdf2
+tqdm
+unstructured
+unstructured[pdf]
+streamlit
+faiss-cpu
+tiktoken

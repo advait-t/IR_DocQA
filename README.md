@@ -1,1 +1,1 @@
-# IR_DocQA
+# docqa
