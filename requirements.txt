@@ -8,3 +8,4 @@ unstructured[pdf]
 streamlit
 faiss-cpu
 tiktoken
+langchain-community
